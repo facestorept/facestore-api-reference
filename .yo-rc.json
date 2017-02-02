@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "Facestore",
+    "repo": "facestorept/facestore-api-reference",
+    "splitSpec": false,
+    "samples": false,
+    "installSwaggerUI": false
+  }
+}
